@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Vincenzo Testa vincenzotesta23@gmail.com
 
 # THANKS
 
