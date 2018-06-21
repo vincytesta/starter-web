@@ -13,3 +13,4 @@ Please fork this repository and then issue Pull Requests for review.
 Sample website with plenty of files for demos
 
 ###Copyright
+2018 Vincenzo Testa
